@@ -34,7 +34,7 @@ export const users: Record<string, User> = {
     username: "arcane",
     avatar: "https://cdn.discordapp.com/avatars/534116806751813682/84566627b2876ab21b6ef2073c0e8899.png",
     bio: "yea",
-    videoBackground: "/arcane.mp4",
+    videoBackground: "/arcan.mp4",
     status: {
       text: "making money",
       isLive: true,
@@ -59,7 +59,7 @@ export const users: Record<string, User> = {
     username: "malindiboys",
     avatar: "https://cdn.discordapp.com/avatars/864589561845252156/a_7a057cc386d5dc71a0b2b6e6045fa8bb.gif",
     bio: "Creative frontend developer and UI/UX enthusiast. I craft beautiful, user-centered digital experiences that make a difference.",
-    videoBackground: "/malindiboys.mp4",
+    videoBackground: "/malindiboy.mp4",
     status: {
       text: "logging IPs",
       isLive: false,
@@ -102,7 +102,7 @@ export const users: Record<string, User> = {
     username: "nami",
     avatar: "https://cdn.discordapp.com/avatars/231153482890084352/5459c811521c45f44edc3eb8931a3c98.png",
     bio: "the eSports GOAT",
-    videoBackground: "/nami.mp4",
+    videoBackground: "/nam.mp4",
     status: {
       text: "the GOAT",
       isLive: true,
