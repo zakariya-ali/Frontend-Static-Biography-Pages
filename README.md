@@ -130,8 +130,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Created by [Your Name or Team]. Inspired by modern link-in-bio tools with a
+Created by Zakariya Ali. Inspired by modern link-in-bio tools with a
 unique twist.
-
-For questions, join our Discord:
-[https://discord.gg/Kn97Weha](https://discord.gg/Kn97Weha)
